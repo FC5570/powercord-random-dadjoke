@@ -31,7 +31,7 @@ class DadJokePlugin extends Plugin {
   }
 
   async getData() {
-    const data = await get("https://icanhazdadjoke.com/", {})
+    const data = await get("https://icanhazdadjoke.com/")
       .set("Accept", "application/json")
       .set(
         "User-Agent",
