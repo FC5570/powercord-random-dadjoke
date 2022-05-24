@@ -1,0 +1,11 @@
+{
+    "name": "Random Dad Joke",
+    "version": "1.0.0",
+    "description": "Powercord plugin to provide random dad jokes in a command.",
+    "author": "FC#5104",
+    "license": "MIT",
+    "repo": "https://github.com/FC5570/powercord-random-dadjoke",
+    "dependencies": [
+      "pc-commands"
+    ]
+}
